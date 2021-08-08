@@ -1,6 +1,9 @@
 ### <img src="arthur_fleck_spining.gif" width="40" height="40"/> &nbsp;I’m **_Raymond Su_**
-### <img src="taiwan_main_island.jpg" width="40" height="44"/> &nbsp;I'm from [**_Taiwan_**](https://eng.taiwan.net.tw/)
-### <img src="nycu_ece_badge.gif" width="40" height=""/> &nbsp;I'm now an undergraduate in [**_NYCU ECE, Taiwan_**](https://www.dece.nctu.edu.tw/)
+### <img src="taiwan_main_island.jpg" width="40" height="44"/> &nbsp;I'm from [**_Taiwan臺灣_**](https://eng.taiwan.net.tw/)
+### <img src="nycu_ece_badge.gif" width="40" height=""/> &nbsp;I'm now an undergraduate in [**_NYCU ECE, Taiwan陽明交大電機系_**](https://www.dece.nctu.edu.tw/)
+### 我是Raymond，目前正在學習基礎程式語言、Verilog。
+### 在新竹的日子很簡單，期望我能堅實的踏過。
+### 面對著三電一工的強烈攻勢，我一定要守住！
 
 *****
 #### <img src="g-mail.gif" width="40" height="25"/> raymondsu0110@gmail.com
