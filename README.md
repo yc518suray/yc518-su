@@ -1,7 +1,6 @@
-- :point_right: Hello, I’m **Raymond Su**
+## <img src="arthur_fleck_spining.gif" width="50" height="50"/>  Hello, I’m **Raymond Su**
 - 🇹🇼 I'm from **Taiwan**
 - :national_park: I’m interested in reading, biking, and hiking
-- 
 - 📫 How to reach me ...
 
 <!---
