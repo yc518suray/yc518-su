@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @yc518-su
-- 👀 I’m interested in reading, biking, and hiking.
-- 🌱 I’m currently learning ECE courses.
+- :point_right: Hello, I’m **Raymond Su**
+- 🇹🇼 I'm from **Taiwan**
+- :national_park: I’m interested in reading, biking, and hiking
+- 
 - 📫 How to reach me ...
 
 <!---
