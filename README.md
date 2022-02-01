@@ -1,4 +1,3 @@
-#### <img src="arthur_fleck_spining.gif" width="25" height="25"/> &nbsp;I’m **_Raymond Su_**
 #### <img src="taiwan_main_island.jpg" width="25" height="25"/> &nbsp;I'm from [**_Taiwan_**](https://eng.taiwan.net.tw/)
 #### I'm now an undergraduate in [**_NYCU ECE_**](https://www.dece.nctu.edu.tw/)
 <!---
