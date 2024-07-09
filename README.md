@@ -1,5 +1,4 @@
-I'm from [_Taiwan_](https://eng.taiwan.net.tw/)
-&nbsp;
+I'm from [_Taiwan_](https://eng.taiwan.net.tw/)\
 I just graduate from [_NYCU ECE_](https://www.dece.nctu.edu.tw/)
 <!---
 How many times must I adjust its content?
